@@ -6,8 +6,8 @@
 
 XY 플로터의 하드웨어 조립과 초기 설정은 아래 네이버 블로그 가이드를 참고해 진행했습니다.
 
-- [XY 플로터 제작 가이드 1](https://m.blog.naver.com/kimgooni/221493177996)
-- [XY 플로터 제작 가이드 2](https://m.blog.naver.com/kimgooni/221235842572)
+- [XY 플로터 제작 가이드-1 하드웨어](https://m.blog.naver.com/kimgooni/221493177996)
+- [XY 플로터 제작 가이드-2 소프트웨어](https://m.blog.naver.com/kimgooni/221235842572)
 
 위 가이드의 방식만으로는 원하는 이미지에서 외곽선을 추출해 G-code로 변환하는 과정에 제한이 있어, 임의의 이미지에서 Canny edge를 검출하고 플로터 경로로 변환할 수 있도록 이 프로그램을 제작했습니다.
 
