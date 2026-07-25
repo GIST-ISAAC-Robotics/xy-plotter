@@ -1,4 +1,4 @@
-# XY Plotter Image-to-G-code Tool
+# Drawing Machine Image-to-G-code Tool
 
 이미지의 외곽선을 추출해 A4 가로 방향 XY 플로터용 G-code로 변환하는 Python 도구입니다.
 
